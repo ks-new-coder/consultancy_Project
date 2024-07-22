@@ -1,4 +1,4 @@
-o develop a web-based application using PHP that allows users to manage their LIC and Mutual funds. The system will provide functionalities for policy/investment tracking, premium due alerts, returns calculation, and portfolio management.
+To develop a web-based application using PHP that allows users to manage their LIC and Mutual funds. The system will provide functionalities for policy/investment tracking, premium due alerts, returns calculation, and portfolio management.
 
 **Features:**
 
